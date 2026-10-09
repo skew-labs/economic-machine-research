@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this working paper and its pinned engine source."
+title: "Fast Machines, Endogenous Losses: Strategy Evolution in Agent-Native Perpetual Markets"
+authors:
+  - name: "SKEW Research"
+version: 0.1.0
+date-released: 2026-10-09
+url: "https://github.com/skew-labs/economic-machine-research"
+repository-code: "https://github.com/skew-labs/economic-machine-research"
+license: MIT
+keywords:
+  - agent-native markets
+  - perpetual orderbooks
+  - machine economics
+  - strategy evolution
+  - Solana
+  - Arbitrum

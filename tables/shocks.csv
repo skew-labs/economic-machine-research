@@ -1,0 +1,8 @@
+price_change_percent,liquidations,liquidation_compensation,external_recapitalization,flat_depositor_exit
+-30,10,0.000000,3572.493000,halted
+-20,5,0.000000,1313.746500,halted
+-10,5,135.000000,0.000000,allowed
+0,0,0.000000,0.000000,allowed
+10,5,143.746500,0.000000,allowed
+20,10,180.000000,1311.253500,halted
+30,10,0.000000,3567.507000,halted

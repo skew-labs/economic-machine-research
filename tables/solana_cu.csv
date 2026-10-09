@@ -1,0 +1,12 @@
+path,fee_corrected_baseline_cu,candidate_cu,rebuilt_phoenix_cu
+post_4_plus_4,11231,11231,22371
+replace_4_plus_4,15855,15855,34588
+cancel_1,2464,2464,7044
+buy_1,6217,6306,13206
+buy_same_maker_4,11899,11343,15500
+buy_same_maker_8,19480,18064,18749
+buy_distinct_makers_8,27880,27801,17285
+sell_1,6327,6416,11683
+sell_same_maker_4,12327,11774,15468
+sell_same_maker_8,20332,18923,17205
+sell_distinct_makers_8,28683,28611,17241

@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "publication_date": "2026-10-09",
+  "engine_repository": "https://github.com/skew-labs/economic-machine",
+  "engine_source_commit": "532f34d0b7927e212245e82c35c5557bb02385c0",
+  "historical_runtime_commit": "8e0af06cba5d42254a761915b93f0d4d89a951b3",
+  "deployed_solana_v6_elf_sha256": "6bf2bc652ff4dbe232f1b77021a5ecd40e4e237fd9dac99a28b25aea401497be",
+  "candidate_solana_v7_binary_sha256": {
+    "wide": "a769c5a45fb380786155f00d465c0f978aca011a32015909282929b2e177953b",
+    "production": "becb8cff4393610df829e005d561b218d84513e5788a0e3263c0af3d5b024277",
+    "fee_baseline": "11d725e1ecff1600ece6b9b0fdab15c0d6b1ac6b3026ca2debc1e3e09a2b5788",
+    "native_program": "36d197cd1eef448c5fa53891bcdc7084ae3f7e06d39e7e7bd9d9263ee786cb62",
+    "phoenix": "dee3e293869bcbe23ea00917aaa7255f5623eeefda1f66b0970018875eaaef9b"
+  },
+  "public_examples": [
+    {
+      "experiment": "Solana followup",
+      "kind": "Finalized IOC sample",
+      "reference": "https://explorer.solana.com/tx/34i2JJ8odwmNqTCzAtUHgSzLZUXMHBfFRZS6J4bXtXrNAvd9DoBePddktA2UeUH2297Cthq12aHJom2DjpgdAFhx?cluster=devnet",
+      "slot": 509032861
+    },
+    {
+      "experiment": "Arbitrum followup",
+      "kind": "Competition fill sample",
+      "reference": "https://arbiscan.io/tx/0x638c363263b486f69d34a8f8a7cbd10072f8c62396c37bab4bb04dabdcb9854c"
+    }
+  ],
+  "archived_report_sha256": {
+    "arena.json": "508f178c7bdf341edcba2d41c2c5a0ab6ac60e9c23b7307c600bdd2736b94efd",
+    "native.json": "cbec57ccb1876423f8ae94fc3c7e8825bd7a59e3979917021c9d1585b7e49206",
+    "boundary.json": "ebf0a0d3ede7b7fec4ebd9e279fb916fa5fc8c25c29cabf6e6a88c842c9976ed",
+    "six-hour.json": "4482a253a3de34ad137b207d67e7aada8b6ce1377cd5f561eadb054561bc97ec",
+    "personas.csv": "a7e07a12bcd2ac689dad9062888485a44615aa932dbc9546e75450c5dc380d30",
+    "arbitrum-finalized.json": "18a940a9a4e326ccfd5be475afcb262a110fec8f32822da22ac6d62d02760929",
+    "solana-finalized.json": "29b55ab356f23bb70c9e418084b70527fa2145afe05afa13cdf97aded76dac4a"
+  },
+  "hash_scope": "File identity, not independent truth proof. Full live journals are not distributed.",
+  "engine_source_url": "https://github.com/skew-labs/economic-machine/tree/532f34d0b7927e212245e82c35c5557bb02385c0/markets"
+}

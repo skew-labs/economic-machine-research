@@ -1,0 +1,7 @@
+path,p50_ns,p99_ns,scope
+Native personalized decision,5447,7837,20000 warmed CPU-only decisions
+Native with Python boundary,10785,19819,Decision and conversion; no network
+Previous Python risk boundary,23132,43653,Same prepared input
+Previous 60-frame replay,1626817,2626170,Same window; packing excluded
+Native 60-frame replay with install,343573,458965,Packing excluded; program install included
+Durable profile revision append,568081,5387369,Cold storage operation

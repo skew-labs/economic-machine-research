@@ -1,0 +1,5 @@
+path,prior_same_safety_gas,current_gas,scope
+partial_fill_one_maker,204262,199729,Anvil receipt; endpoint optimization
+fill_32_makers,2031718,1885225,Anvil receipt; endpoint optimization
+partial_fill_one_maker_cumulative,248158,199729,Anvil receipt; cumulative packing and endpoint optimization
+fill_32_makers_cumulative,2706551,1885225,Anvil receipt; cumulative packing and endpoint optimization
